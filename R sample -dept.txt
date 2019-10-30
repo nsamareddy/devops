@@ -1,0 +1,7 @@
+"name","age","sex","dept"
+narayan,200,300,12
+swarna,201,301,13
+yutika,202,302,14
+vedhansh,204,304,12
+reddy,205,305,11
+
